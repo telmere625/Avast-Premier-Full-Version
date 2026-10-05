@@ -247,4 +247,4 @@ This repository serves as the official landing page for Avast Premier. The softw
 **Get the most recent version of Avast Premier today!**
 
 ---
-**Last updated:** 2026-10-05 08:19:06 UTC
+**Last updated:** 2026-10-05 17:52:04 UTC
